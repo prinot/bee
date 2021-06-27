@@ -57,7 +57,7 @@
                                     <li><a href="#">Hindi</a></li>
                                 </ul> -->
                             </li>
-                        	<li><a href="https://api.whatsapp.com/send?phone=5215581972273&text=Quiero información sobre los servicios de marketing y desarrollo." target="_blank"><span class="icon fa fa-phone"></span>Hable con nuestro especialista: <strong>+52 1 55 8197 2273</strong> </a></li>
+                        	<li><a href="52&text=Quiero información sobre los servicios de marketing y desarrollo." target="_blank"><span class="icon fa fa-phone"></span>Hable con nuestro especialista: <strong>+52 1 55 8197 2273</strong> </a></li>
                             <li><a href="#"><span class="icon"></span>Contactanos</a></li>
                         </ul>
                     </div>
@@ -1301,7 +1301,7 @@
     </section>
     <!--End Partners Section-->
     <div class="btn-whatsapp">
-        <a href="https://api.whatsapp.com/send?phone=5215581972273" target="_blank">
+        <a href="https://api.whatsapp.com/send?phone=5215581972273&text=Estoy%20Interesado%20en%20el%20servicio%20quiero%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20paquetes%20de%20Bee%20Design%20Mexico" target="_blank">
         <img src="/images/icon-bee.png" alt="Icono de Whatsapp de Bee Design">
         </a>
         </div>
