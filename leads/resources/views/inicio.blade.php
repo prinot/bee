@@ -1,10 +1,10 @@
 
-           
-           
+
+
            <!DOCTYPE html>
            <html lang="es">
-           
-           
+
+
            <head><meta charset="windows-1252">
                <title>Bee Design Perú</title>
                <!--== META TAGS ==-->
@@ -17,14 +17,14 @@
                <meta name="geo.region" content="PE-LIM">
                <meta name="viewport" content="width=device-width, initial-scale=1.0">
                <meta property="og:image" content="https://beedesign.pe/images/bee-design-peru.png">
-           
-           <title>Bee Design | Agencia de Marketing Peruana</title>
+
+           <title>Bee Design | Agencia de Marketing Mexicana</title>
                <link rel="shortcut icon" href="images/fav.ico" type="image/x-icon">
                <!--== GOOGLE FONTS ==-->
                <link href="../../../../fonts.googleapis.com/cssb656.css?family=Poppins:300,400,500,700" rel="stylesheet">
                <!--== CSS FILES ==-->
                <link href=" {{ asset('landing/css/tour.css') }}" rel="stylesheet" />
-              
+
                <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
                <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
                <!--[if lt IE 9]>
@@ -32,13 +32,13 @@
                <script src="js/respond.min.js"></script>
                <![endif]-->
            </head>
-           
+
            <body>
                <!-- Preloader -->
                <div id="preloader">
                    <div id="status">&nbsp;</div>
                </div>
-           
+
                <!-- TOP HEADER - LOGO AND PHONE NUMBER -->
                <section>
                    <div class="land-full land-3-top-full">
@@ -57,7 +57,7 @@
                        </div>
                    </div>
                </section>
-           
+
                <!-- BANNER SECTION -->
                <section>
                    <div class="land-full land-3-banner-full">
@@ -68,7 +68,7 @@
                                    <h4>Te brindamos servicio de dise&ntilde;o y desarrollo web</h4>
                                    <p>En BeeDesign diseñamos y desarrollamos páginas web creativas e innovadoras para tu empresa. Desde una tienda en linea hasta un blog para hablar sobre los beneficios de tu producto. Obtén Ahora una Web Profesional a Buen Precio. Llama ahora.</p>
                                </div>
-           
+
                                <!-- BOOKING FORM -->
                                <div class="land-3-banner-form">
                                    <div class="land-com-form">
@@ -84,7 +84,7 @@
                                                <li><input type="text" name="phone" placeholder="N&uacute;mero de Celular" required></li>
                                                <li><input type="text" name="name_business" placeholder="Nombre de tu empresa" ></li>
                                                <li>
-                                                  
+
                                                    <select name="package" class="form-control" required>
                                                     <option value="Diseño Web">Diseño Web</option>
                                                     <option value="Tiendas en Linea">Tiendas en Linea</option>
@@ -107,7 +107,7 @@
                        </div>
                    </div>
                </section>
-           
+
                <!-- TOUR PACKAGES(GRID SECTION) -->
                <section>
                    <div class="land-full land-packages">
@@ -146,7 +146,7 @@
                        </div>
                    </div>
                </section>
-           
+
                <!-- TRAVEL PLAN -->
                <section>
                    <div class="land-full land-4-agen-full">
@@ -181,7 +181,7 @@
                                            <h4>Performance Marketing</h4>
                                            <p>Data-driven marketing y medición de resultados para mejorar continuamente tus actividades digitales.</p>
                                        </li>
-                                      
+
                                        <li>
                                            <h4>Campaña de regalo</h4>
                                            <p>En nuestra promoción por la pandemia del covid-19 Te obsequiamos 25 mil mensajes de texto segmentados. Para potenciar aun más tu negocio en redes.</p>
@@ -192,7 +192,7 @@
                        </div>
                    </div>
                </section>
-           
+
                <!-- CUSTOMER SAYS -->
                <section>
                    <div class="land-full land-3-cus-full">
@@ -236,9 +236,9 @@
                        </div>
                    </div>
                </section>
-           
-             
-           
+
+
+
                <!-- COPY RIGHTS -->
                <section>
                    <div class="land-full land-1-foot-full">
@@ -249,15 +249,14 @@
                        </div>
                    </div>
                </section>
-           
+
                <!--SCRIPTS-->
                <script src=" {{ asset('landing/js/main.min.js') }}"></script>
-              
+
                <script src=" {{ asset('landing/js/custom.js') }}"></script>
-               
-               
+
+
            </body>
-           
-           
+
+
            </html>
-                
