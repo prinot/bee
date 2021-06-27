@@ -5,7 +5,7 @@
         <meta name="title" content="🥇 BeeDesign Agencia de Marketing Digital en Puebla | Agencia Digital Mexico">
         <meta name="description" content="Agencia de Marketing Digital especializada en el desarrollo de estrategia Digital, Publicidad Online, Posicionamiento Web SEO, Ecommerce y Diseño web ✅">
         <meta name="keywords" content="Agencia digital, agencia digital en puebla, agencia de marketing digital mexico, agencia de marketing digital, empresa de marketing digital, marketing online, marketing digital mexico, agencia de marketing digital, publicidad digital, posicionamiento web, posicionamiento web seo, marketing digital en puebla, publicidad en internet, publicidad en redes sociales,publicidad en social media">
-        <meta name="author" content="Bee Group S.A." />
+        <meta name="author" content="Bee Group S.A. " />
         <meta name="geo.region" content="MX-PUE" />
         <meta name="geo.placename" content="Puebla de Zaragoza" />
         <meta name="geo.position" content="19.04372;-98.198149" />
