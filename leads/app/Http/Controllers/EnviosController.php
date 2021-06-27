@@ -97,7 +97,7 @@ class EnviosController extends Controller
         $EnvioMasivo=request()->except('_token');
 
         Envio::insert($EnvioMasivo);
-        return redirect('https://api.whatsapp.com/send?phone=521558197 2273&text=Quiero%20Informaci%C3%B3n%20Sobre%20Servicio%20de%20Dise%C3%B1o%20Web');
+        return redirect('https://api.whatsapp.com/send?phone=5215581972273&text=Quiero%20Informaci%C3%B3n%20Sobre%20Servicio%20de%20Dise%C3%B1o%20Web');
       // return response()->json($EnvioMasivo);
 
      // $url= '';
