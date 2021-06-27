@@ -23,7 +23,7 @@ class EnviosController extends Controller
      *
      * @return void
      */
-  
+
     /**
      * Display a listing of the resource.
      *
@@ -35,21 +35,21 @@ class EnviosController extends Controller
         $name =$request->get('name');
         $phone =$request->get('phone');
         $email =$request->get('email');
-       
-        
+
+
 
         $envios = Envio::orderBy('id','DESC')
                 ->name($name)
                 ->phone($phone)
                 ->email($email)
-                
-                
+
+
                 ->paginate(10);
        //$datos['envios']=Envio::paginate(5);
        //return view('envio',$datos);
       return view('envio', compact('envios'));
     }
-   
+
     public function ExportPdf()
     {
 
@@ -63,11 +63,11 @@ class EnviosController extends Controller
     public function exportExcel()
     {
         return Excel::download(new EnvioExport, 'envio.xlsx');
-  
-       
-     
+
+
+
     }
-    
+
 
 
 
@@ -79,7 +79,7 @@ class EnviosController extends Controller
     public function create()
     {
         //
-        
+
     }
 
     /**
@@ -92,12 +92,12 @@ class EnviosController extends Controller
     {
         $EnvioMasivo=request()->all();
         $EnvioMasivo=request()->package;
-        
+
 
         $EnvioMasivo=request()->except('_token');
-       
+
         Envio::insert($EnvioMasivo);
-        return redirect('https://api.whatsapp.com/send?phone=51950753677&text=Quiero%20Informaci%C3%B3n%20Sobre%20Servicio%20de%20Dise%C3%B1o%20Web');
+        return redirect('https://api.whatsapp.com/send?phone=521558197 2273&text=Quiero%20Informaci%C3%B3n%20Sobre%20Servicio%20de%20Dise%C3%B1o%20Web');
       // return response()->json($EnvioMasivo);
 
      // $url= '';

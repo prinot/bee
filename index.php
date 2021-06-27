@@ -2,17 +2,18 @@
 <html>
 
 <head>
-        <meta name="title" content="🥇 BeeDesign Agencia de Marketing Digital en Lima | Agencia Digital PERU">
+        <meta name="title" content="🥇 BeeDesign Agencia de Marketing Digital en Puebla | Agencia Digital Mexico">
         <meta name="description" content="Agencia de Marketing Digital especializada en el desarrollo de estrategia Digital, Publicidad Online, Posicionamiento Web SEO, Ecommerce y Diseño web ✅">
-        <meta name="keywords" content="Agencia digital, agencia digital en lima, agencia de marketing digital peru, agencia de marketing digital, empresa de marketing digital, marketing online, marketing digital peru, agencia de marketing digital, publicidad digital, posicionamiento web, posicionamiento web seo, marketing digital en lima, publicidad en internet, publicidad en redes sociales,publicidad en social media">
-        <meta name="author" content="BeeDesign" />
-        <meta name="geo.position" content="-12.067671;-76.955216">
-        <meta name="geo.placename" content="Lima, Peru">
-        <meta name="geo.region" content="PE-LIM">
+        <meta name="keywords" content="Agencia digital, agencia digital en puebla, agencia de marketing digital mexico, agencia de marketing digital, empresa de marketing digital, marketing online, marketing digital mexico, agencia de marketing digital, publicidad digital, posicionamiento web, posicionamiento web seo, marketing digital en puebla, publicidad en internet, publicidad en redes sociales,publicidad en social media">
+        <meta name="author" content="Bee Group S.A." />
+        <meta name="geo.region" content="MX-PUE" />
+        <meta name="geo.placename" content="Puebla de Zaragoza" />
+        <meta name="geo.position" content="19.04372;-98.198149" />
+        <meta name="ICBM" content="19.04372, -98.198149" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta property="og:image" content="https://beedesign.pe/images/bee-design-peru.png">
+        <meta property="og:image" content="https://beedesign.mx/images/bee-design-peru.png">
 <meta charset="utf-8">
-<title>Bee Design | Agencia de Marketing Peruana</title>
+<title>Bee Design | Agencia de Marketing Mexicana</title>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="plugins/revolution/css/settings.css" rel="stylesheet" type="text/css">
@@ -56,7 +57,7 @@
                                     <li><a href="#">Hindi</a></li>
                                 </ul> -->
                             </li>
-                        	<li><a href="https://api.whatsapp.com/send?phone=51946278044&text=Quiero información sobre los servicios de marketing y desarrollo." target="_blank"><span class="icon fa fa-phone"></span>Hable con nuestro especialista: <strong>+51 946 278 044</strong> </a></li>
+                        	<li><a href="https://api.whatsapp.com/send?phone=5215581972273&text=Quiero información sobre los servicios de marketing y desarrollo." target="_blank"><span class="icon fa fa-phone"></span>Hable con nuestro especialista: <strong>+52 1 55 8197 2273</strong> </a></li>
                             <li><a href="#"><span class="icon"></span>Contactanos</a></li>
                         </ul>
                     </div>
@@ -133,7 +134,7 @@
                                             <li><a href="#">WhatsApp Marketing</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="#">acerca de</a>
+                                    <li class="dropdown"><a href="#">Acerca de</a>
                                     	<ul>
                                             <li><a href="about.html">Acerca de BeeDesign</a></li>
                                           
@@ -216,7 +217,7 @@
                                             <li><a href="#">WhatsApp Marketing</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="#">acerca de</a>
+                                    <li class="dropdown"><a href="#">Acerca de</a>
                                     	<ul>
                                             <li><a href="about.html">Acerca de BeeDesign</a></li>
                                           
@@ -1300,7 +1301,7 @@
     </section>
     <!--End Partners Section-->
     <div class="btn-whatsapp">
-        <a href="https://api.whatsapp.com/send?phone=51950753677" target="_blank">
+        <a href="https://api.whatsapp.com/send?phone=521558197 2273" target="_blank">
         <img src="/images/icon-bee.png" alt="Icono de Whatsapp de Bee Design">
         </a>
         </div>
@@ -1356,10 +1357,7 @@
                                 </div>
                                 <ul class="social-icon-one">
                                     <li><a href="https://www.facebook.com/bee.design.peru/" target="_blank"><span class="fa fa-facebook-f"></span></a></li>
-                                 
-                                    
-                                    <li><a href="https://www.instagram.com/bee.design.peru/" target="_blank"><span class="fa fa-instagram"></span></a></li>
-                                   
+                                    <li><a href="https://www.instagram.com/bee.design.latam/" target="_blank"><span class="fa fa-instagram"></span></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1377,7 +1375,7 @@
                                     <div class="office-info">
                                     	<ul>
                                         	<li><strong>Dirección:</strong></li>
-                                            <li>Calle Bernardo alcedo #656 Los libertadores SMP <br>Lima/Perú.</li>
+                                            <li> Puebla Puebla Mexico.<br</li>
                                             <li><a href="#"></a></li>
                                         </ul>
                                     </div>
