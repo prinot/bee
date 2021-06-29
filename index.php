@@ -57,7 +57,7 @@
                                     <li><a href="#">Hindi</a></li>
                                 </ul> -->
                             </li>
-                        	<li><a href="52&text=Quiero información sobre los servicios de marketing y desarrollo." target="_blank"><span class="icon fa fa-phone"></span>Hable con nuestro especialista: <strong>+52 1 55 8197 2273</strong> </a></li>
+                        	<li><a href="https://api.whatsapp.com/send?phone=5215581972273&text=Quiero%20m%C3%A1s%20informaci%C3%B3n%20de%20los%20paquetes%20de%20dise%C3%B1o%20web%20en%20Bee%20Design" target="_blank"><span class="icon fa fa-phone"></span>Hable con nuestro especialista: <strong>+52 1 55 8197 2273</strong> </a></li>
                             <li><a href="#"><span class="icon"></span>Contactanos</a></li>
                         </ul>
                     </div>
@@ -138,28 +138,10 @@
                                     	<ul>
                                             <li><a href="about.html">Acerca de BeeDesign</a></li>
                                           
-                                            <!-- <li><a href="error-page.html">404 Page</a></li> 
-                                            <li><a href="quote.html">Get a Quote</a></li>
-                                            <li><a href="testimonial.html">Testimonials</a></li>
-                                            <li><a href="comming-soon.html">Coming Soon</a></li>
-                                            <li><a href="contact.html">Contact Us</a></li>-->
+
                                         </ul>
                                     </li>
-                                    <!-- <li class="dropdown"><a href="#">Case Studies</a>
-                                    	<ul>
-                                            <li><a href="case.html">Case Studies Default</a></li>
-                                            <li><a href="cases-text.html">Case Studies Modern</a></li>
-                                            <li><a href="cases-single.html">Single Case</a></li>
-                                        </ul>
-                                    </li> -->
-                                    <!--<li><a href="price.html">Precios</a></li>
-                                     <li <class="dropdown"><a href="#">Blog</a>
-                                    	<ul>
-                                            <li><a href="blog.html">Blog Default</a></li>
-                                            <li><a href="blog-classic.html">Blog Large Image</a></li>
-                                            <li><a href="blog-detail.html">Single Post</a></li>
-                                        </ul>
-                                    </li> -->
+
                                  </ul>
                             </div>
                         </nav>
@@ -184,7 +166,7 @@
                 <div class="outer-container clearfix">
                     <!--Logo Box-->
                     <div class="logo-box pull-left">
-                        <div class="logo"><a href="index-2.html"><img src="images/logo-bee.png" alt="" width="250px"> </a></div>
+                        <div class="logo"><a href="index.php"><img src="images/logo-bee.png" alt="" width="250px"> </a></div>
                     </div>
                     
                     <!--Nav Outer-->
@@ -450,7 +432,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
-                    	<h2 class="light"><span>ppc</span>Agencia de Marketing digital<br> en Perú.</h2>
+                    	<h2 class="light"><span>ppc</span>Agencia de Marketing digital<br> Mexicana.</h2>
                     </div>
                     
                     <div class="tp-caption" 
@@ -469,7 +451,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
-                    	<div class="text light">Buscamos que todas las empresas desarrollen marketing digital en Perú.</div>
+                    	<div class="text light">Buscamos que todas las empresas desarrollen marketing digital en Mexico.</div>
                     </div>
                     
                     <div class="tp-caption tp-resizeme" 
